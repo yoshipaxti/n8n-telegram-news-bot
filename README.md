@@ -61,8 +61,4 @@ Telegram Command
 3. Create a Google Sheet with a column for processed links
 4. Trigger via Telegram command
 
----
 
-## 📄 License
-
-MIT
