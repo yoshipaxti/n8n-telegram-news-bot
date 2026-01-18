@@ -6,6 +6,9 @@ This workflow ingests AI, Blockchain, and Gaming news via RSS, filters by date, 
 
 Designed for reliability, zero duplication, and editorial consistency.
 
+<img width="1822" height="440" alt="Workflow-Diagram" src="https://github.com/user-attachments/assets/deff6e31-9f80-4aad-b81e-47f0c830d467" />
+
+
 ---
 
 ## 🔧 Core Features
